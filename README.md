@@ -21,8 +21,11 @@ The use of this dashboard enables Digital Communication and Marketing department
 - Tableau
 
 ## Database Diagram
-![Image]([http://url/a.png](https://github.com/DiegoBonilla39/ih_datamadpt0223_project_m2/blob/main/images/db_diagram.png))	
+![Image](https://github.com/DiegoBonilla39/ih_datamadpt0223_project_m2/blob/main/images/db_diagram.png)
+
 ## Functional Design Mockup
+![Image](https://github.com/DiegoBonilla39/ih_datamadpt0223_project_m2/blob/main/images/functional%20design%20mockup.jpeg)
+
 ## Dashboard Structure
 
 ### Main fields
